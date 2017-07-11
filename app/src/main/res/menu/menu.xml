@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/menu_pokemon"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="POKEMONS"/>
+    <item
+        android:id="@+id/menu_items"
+        android:title="POKE ITEMS">
+    </item>
+
+    <item
+        android:id="@+id/menu_moves"
+        android:title="POKE MOVES">
+    </item>
+
+    <item
+        android:id="@+id/menu_generations"
+        android:title="POKE GENERATIONS">
+    </item>
+
+    <item
+        android:id="@+id/menu_pokedex"
+        android:title="POKEDEX">
+    </item>
+
+
+</menu>
